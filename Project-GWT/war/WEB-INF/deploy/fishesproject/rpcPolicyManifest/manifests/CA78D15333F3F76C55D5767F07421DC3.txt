@@ -1,0 +1,2 @@
+serviceClass: com.fishes.client.Service
+path: 923C5F348E9C269D702DD285C2632F0D.gwt.rpc
